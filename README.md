@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](https://raiyen-zayed-rakin.io)
-<h1 align="center">Hi 👋, I'm Rakin</h1>
+<h1 align="center">Hi 👋, I'm Raiyen Zayed Rakin</h1>
 <h3 align="center">I'm a newcomer programmer learining new things in the world of programming</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyen-zayed-rakin&label=Profile%20views&color=0e75b6&style=flat" alt="raiyen-zayed-rakin" /> </p>
