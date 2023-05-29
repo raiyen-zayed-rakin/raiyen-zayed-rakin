@@ -1,6 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)](https://raiyen-zayed-rakin.io)
-<h1 align="center">Hi 👋, I'm Raiyen Zayed Rakin</h1>
-<h3 align="center">I'm a newcomer programmer learning new things in the world of programming</h3>
+<h1 align="center">Assalamu Alaikum, I'm Raiyen Zayed Rakin</h1>
+<h3 align="center">I'm a rookie programmer continously learning new things in the world of programming</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyen-zayed-rakin&label=Profile%20views&color=0e75b6&style=flat" alt="raiyen-zayed-rakin" /> </p>
 
@@ -8,7 +7,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **rakinaiub@gmail.com**
+- 📫 How to reach me **rakinaiub2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
