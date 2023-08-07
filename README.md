@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyen-zayed-rakin&label=Profile%20views&color=0e75b6&style=flat" alt="raiyen-zayed-rakin" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Web Devlopment**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++/Java**
 
 - 📫 How to reach me **rakinaiub2023@gmail.com**
 
