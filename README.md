@@ -1,7 +1,6 @@
 <h1 align="center">Assalamu Alaikum, I'm Raiyen Zayed Rakin</h1>
 <h3 align="center">I'm a rookie programmer continously learning new things in the world of programming</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyen-zayed-rakin&label=Profile%20views&color=0e75b6&style=flat" alt="raiyen-zayed-rakin" /> </p>
 
 - 🌱 I’m currently learning **Web Devlopment**
 
