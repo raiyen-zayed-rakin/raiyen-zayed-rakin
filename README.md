@@ -2,7 +2,7 @@
 <h3 align="center">I'm a rookie programmer continously learning new things in the world of programming</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently learning **DSA and Web Devlopment**
 
 - 💬 Ask me about **C++/Java**
 
