@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DSA and Web Devlopment**
 
-- 💬 Ask me about **C++/Java**
+- 💬 Ask me about **C++/Javascript**
 
 - 📫 How to reach me **rakinaiub2023@gmail.com**
 
