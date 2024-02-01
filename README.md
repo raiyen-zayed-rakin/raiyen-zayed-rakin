@@ -1,4 +1,5 @@
-<img algin="center" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="1100" height="650" /><h1 align="center">Assalamu Alaikum, I'm Raiyen Zayed Rakin.</h1>
+<div align="center"><img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" width="800" height="400"></div>
+<h1 align="center">Assalamu Alaikum, I'm Raiyen Zayed Rakin.</h1>
 <h2 align="center">I'm a rookie programmer continously learning new things in the world of programming.</h2>
 <!--- 🤝 I’m looking for help with **Algorithms and DSA**-->
 
