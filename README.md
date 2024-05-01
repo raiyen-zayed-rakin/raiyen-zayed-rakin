@@ -1,8 +1,8 @@
 <h1 align="center">Assalamu Alaikum, I'm Raiyen Zayed Rakin.</h1>
-<h2 align="center">I'm a rookie programmer continously learning new things in the world of programming.</h2>
+<h2 align="center">I'm a programmer continously learning new things in the world of programming.</h2>
 <!--- 🤝 I’m looking for help with **Algorithms and DSA**-->
 
-- 🌱 I’m currently learning **DSA and Web Devlopment**
+- 🌱 I’m currently learning **DSA and MERN**
 
 - 💬 Ask me about **C++/Javascript**
 
