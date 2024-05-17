@@ -52,15 +52,10 @@
 
 <h2 align="left">📊 GitHub Information:</h2>
 
-###
+![raiyen-zayed-rakin's Stats](https://github-readme-stats.vercel.app/api?username=raiyen-zayed-rakin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![raiyen-zayed-rakin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyen-zayed-rakin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=10)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiyen-zayed-rakin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raiyen-zayed-rakin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
+<!--![raiyen-zayed-rakin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyen-zayed-rakin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)-->
 <!--<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
