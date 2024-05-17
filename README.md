@@ -17,6 +17,8 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
