@@ -21,6 +21,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
@@ -34,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
 </div>
 
 ###
