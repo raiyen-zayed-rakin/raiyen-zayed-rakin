@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
 </div>
 
