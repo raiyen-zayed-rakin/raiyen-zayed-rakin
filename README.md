@@ -16,31 +16,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,bootstrap,js,vscode,visualstudio,python,pycharm&perline=6" height="150"/>
+  </a>
+</p>
 
 ###
 
