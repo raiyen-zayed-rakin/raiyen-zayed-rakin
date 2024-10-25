@@ -16,9 +16,9 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,bootstrap,js,vscode,visualstudio,python,pycharm&perline=6" height="150"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,bootstrap,js,vscode,visualstudio,python,pycharm&perline=12" height="150"/>
   </a>
 </p>
 
