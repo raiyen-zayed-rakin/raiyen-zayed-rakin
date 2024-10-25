@@ -1,8 +1,8 @@
 <h1 align="Left">Assalamu Alaikum, I'm Raiyen Zayed Rakin.</h1>
 
-## I'm a programmer continuously learning new things in the world of programming.
+<!--## I'm a programmer continuously learning new things in the world of programming.-->
 
-####  Trying to keep up with the horde of tech, Currently pursuing Computer Science & Engineering at AIUB, Bangladesh. I am checking out various fields of CS, specially Generative AI and Software Development and focusing on Web Development(MERN). Technology was always interesting to me and I am constantly amazed by the impact it has on the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Object Oriented Programming(JAVA, C#) And what I might lack in skills I make up for with my determination to learn. 
+###  Trying to keep up with the horde of tech, Currently pursuing Computer Science & Engineering at [AIUB](https://www.aiub.edu/), Bangladesh. I am checking out various fields of CS, specially Generative AI and Software Development and focusing on Web Development(MERN). Technology was always interesting to me and I am constantly amazed by the impact it has on the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Object Oriented Programming(JAVA, C#) And what I might lack in skills I make up for with my determination to learn. 
 
 ## 💀Outside of tech, I am a dangerous tea lover, an avid calisthenics enthusiast with a good sense of humor.
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++/Javascript**
 
-- 📫 How to reach me **rakinaiub2023@gmail.com**
+- 📫 How to reach me ```rakinaiub2023@gmail.com```
 
 <h2 align="left">💻 Languages and Tools :</h2>
 
