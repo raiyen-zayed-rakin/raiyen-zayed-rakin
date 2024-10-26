@@ -6,23 +6,20 @@
 
 ## 💀Outside of tech, I am a dangerous tea lover, an avid calisthenics enthusiast with a good sense of humor.
 
-- 🌱 I’m currently learning **DSA and MERN**
+### - 🌱 I’m currently learning **DSA and MERN**
 
-- 💬 Ask me about **C++/Javascript**
-
-- 📫 How to reach me ```rakinaiub2023@gmail.com```
+### - 📫 How to reach me ```rakinaiub2023@gmail.com```
 
 <h2 align="left">💻 Languages and Tools :</h2>
 
-###
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,bootstrap,js,vscode,visualstudio,python,pycharm&perline=12" height="150"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,bootstrap,js,vscode,visualstudio,python,pycharm&perline=12" height="100"/>
   </a>
 </p>
 
-###
+
 
 <h2 align="left">🌐 Connect with me :</h2>
 
