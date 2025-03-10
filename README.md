@@ -2,7 +2,7 @@
 
 <!--## I'm a programmer continuously learning new things in the world of programming.-->
 
-###  Trying to keep up with the horde of tech, Currently pursuing Computer Science & Engineering at [AIUB](https://www.aiub.edu/), Bangladesh. I am checking out various fields of CS, specially Generative AI and Software Development and focusing on Web Development(MERN). Technology and engineering was always interesting to me and I am constantly amazed by the impact they have on the world. Certain skills that I have worked with includes Data Structures and Algorithms (C++), Object Oriented Programming(JAVA, C#) And what I might lack in skills I make up for with my determination to learn. 
+###  Trying to keep up with the horde of tech, Currently pursuing Computer Science & Engineering at [AIUB](https://www.aiub.edu/), Bangladesh. Technology and engineering was always interesting to me and I am constantly amazed by the impact they have on the world. Certain skills that I have worked with includes Data Structures and Algorithms (C++), Object Oriented Programming(JAVA, C#) And what I might lack in skills I make up for with my determination to learn. 
 
 ## 💀Outside of tech, I am a dangerous tea lover, an avid calisthenics enthusiast with a good sense of humor.
 
