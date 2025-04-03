@@ -8,7 +8,7 @@
 
 ### - 🌱 I’m currently learning **DSA and MERN**
 
-### - 📫 How to reach me ```rakinaiub2023@gmail.com```
+### - 📫 How to reach me ```raiyenzayedrakin@gmail.com```
 
 <h2 align="left">💻 Languages and Tools :</h2>
 
